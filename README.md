@@ -106,4 +106,5 @@ pytest tests/
 ```
 ## Author 
 Ekaterina Glazunova - katarina74
+
 [katarina.glazunova97@inbox.ru](mailto:katarina.glazunova97@inbox.ru)
