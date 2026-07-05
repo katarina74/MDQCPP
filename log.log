@@ -1,0 +1,753 @@
+2026-06-07 21:54:00,834 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_1_1.xlsx`.
+2026-06-07 21:54:00,846 - src.milp - INFO - Creating a model.
+2026-06-07 21:54:00,916 - src.milp - INFO - Start optimizing.
+2026-06-07 21:54:35,650 - src.milp - INFO - Finish optimizing.
+2026-06-07 21:54:35,651 - src.milp - INFO - Minimal density is 0.3478260870.
+2026-06-07 21:54:35,743 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_1_1.xlsx`.
+2026-06-07 21:54:35,743 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_1_1.xlsx`.
+2026-06-07 21:54:35,744 - src.milp - INFO - Creating a model.
+2026-06-07 21:54:35,771 - src.milp - INFO - Start optimizing.
+2026-06-07 21:55:03,699 - src.milp - INFO - Finish optimizing.
+2026-06-07 21:55:03,699 - src.milp - INFO - Minimal density is 0.3478260870.
+2026-06-07 21:55:03,765 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_1_1.xlsx`.
+2026-06-07 21:55:03,765 - __main__ - INFO - Start optimizing general milp model for for file `1_1_1.xlsx`.
+2026-06-07 21:55:03,765 - src.milp_general - INFO - Creating a model.
+2026-06-07 21:55:03,881 - src.milp_general - INFO - Start optimizing.
+2026-06-07 22:55:03,005 - src.milp_general - INFO - Finish optimizing.
+2026-06-07 22:55:03,006 - src.milp_general - INFO - Minimal density is 0.3466666667.
+2026-06-07 22:55:03,449 - __main__ - INFO - Finish optimizing general milp model for file `1_1_1.xlsx`.
+2026-06-07 22:55:03,482 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_2_1.xlsx`.
+2026-06-07 22:55:03,482 - src.milp - INFO - Creating a model.
+2026-06-07 22:55:03,504 - src.milp - INFO - Start optimizing.
+2026-06-07 22:55:06,055 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:55:06,055 - src.milp - INFO - Minimal density is 0.1871657754.
+2026-06-07 22:55:06,120 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_2_1.xlsx`.
+2026-06-07 22:55:06,120 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_2_1.xlsx`.
+2026-06-07 22:55:06,120 - src.milp - INFO - Creating a model.
+2026-06-07 22:55:06,129 - src.milp - INFO - Start optimizing.
+2026-06-07 22:55:09,050 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:55:09,051 - src.milp - INFO - Minimal density is 0.1871657754.
+2026-06-07 22:55:09,120 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_2_1.xlsx`.
+2026-06-07 22:55:09,120 - __main__ - INFO - Start optimizing general milp model for for file `1_2_1.xlsx`.
+2026-06-07 22:55:09,121 - src.milp_general - INFO - Creating a model.
+2026-06-07 22:55:09,145 - src.milp_general - INFO - Start optimizing.
+2026-06-07 22:55:13,095 - src.milp_general - INFO - Finish optimizing.
+2026-06-07 22:55:13,095 - src.milp_general - INFO - Minimal density is 0.1871657754.
+2026-06-07 22:55:13,151 - __main__ - INFO - Finish optimizing general milp model for file `1_2_1.xlsx`.
+2026-06-07 22:55:13,166 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:13,167 - src.milp - INFO - Creating a model.
+2026-06-07 22:55:13,179 - src.milp - INFO - Start optimizing.
+2026-06-07 22:55:13,395 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:55:13,396 - src.milp - INFO - Minimal density is 0.1865546218.
+2026-06-07 22:55:13,432 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:13,433 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:13,433 - src.milp - INFO - Creating a model.
+2026-06-07 22:55:13,439 - src.milp - INFO - Start optimizing.
+2026-06-07 22:55:13,538 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:55:13,538 - src.milp - INFO - Minimal density is 0.1865546218.
+2026-06-07 22:55:13,575 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:13,575 - __main__ - INFO - Start optimizing general milp model for for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:13,575 - src.milp_general - INFO - Creating a model.
+2026-06-07 22:55:13,593 - src.milp_general - INFO - Start optimizing.
+2026-06-07 22:55:15,360 - src.milp_general - INFO - Finish optimizing.
+2026-06-07 22:55:15,360 - src.milp_general - INFO - Minimal density is 0.1865546218.
+2026-06-07 22:55:15,387 - __main__ - INFO - Finish optimizing general milp model for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:15,387 - __main__ - INFO - Start greedy algorithm for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:15,388 - __main__ - INFO - Minimal density is 0.16134453781512606.
+2026-06-07 22:55:15,420 - __main__ - INFO - Finish greedy algorithm for file `1_2_1_2.xlsx`.
+2026-06-07 22:55:15,439 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_2_2.xlsx`.
+2026-06-07 22:55:15,440 - src.milp - INFO - Creating a model.
+2026-06-07 22:55:15,480 - src.milp - INFO - Start optimizing.
+2026-06-07 22:55:19,234 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:55:19,235 - src.milp - INFO - Minimal density is 0.2806324111.
+2026-06-07 22:55:19,290 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_2_2.xlsx`.
+2026-06-07 22:55:19,291 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_2_2.xlsx`.
+2026-06-07 22:55:19,291 - src.milp - INFO - Creating a model.
+2026-06-07 22:55:19,304 - src.milp - INFO - Start optimizing.
+2026-06-07 22:55:21,796 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:55:21,797 - src.milp - INFO - Minimal density is 0.2806324111.
+2026-06-07 22:55:21,853 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_2_2.xlsx`.
+2026-06-07 22:55:21,854 - __main__ - INFO - Start optimizing general milp model for for file `1_2_2.xlsx`.
+2026-06-07 22:55:21,854 - src.milp_general - INFO - Creating a model.
+2026-06-07 22:55:21,910 - src.milp_general - INFO - Start optimizing.
+2026-06-07 22:59:10,328 - src.milp_general - INFO - Finish optimizing.
+2026-06-07 22:59:10,328 - src.milp_general - INFO - Minimal density is 0.2806327711.
+2026-06-07 22:59:10,481 - __main__ - INFO - Finish optimizing general milp model for file `1_2_2.xlsx`.
+2026-06-07 22:59:10,505 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_3_1.xlsx`.
+2026-06-07 22:59:10,505 - src.milp - INFO - Creating a model.
+2026-06-07 22:59:10,519 - src.milp - INFO - Start optimizing.
+2026-06-07 22:59:11,566 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:59:11,566 - src.milp - INFO - Minimal density is 0.4039039039.
+2026-06-07 22:59:11,626 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_3_1.xlsx`.
+2026-06-07 22:59:11,627 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_3_1.xlsx`.
+2026-06-07 22:59:11,627 - src.milp - INFO - Creating a model.
+2026-06-07 22:59:11,640 - src.milp - INFO - Start optimizing.
+2026-06-07 22:59:12,056 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:59:12,056 - src.milp - INFO - Minimal density is 0.4039039039.
+2026-06-07 22:59:12,110 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_3_1.xlsx`.
+2026-06-07 22:59:12,110 - __main__ - INFO - Start optimizing general milp model for for file `1_3_1.xlsx`.
+2026-06-07 22:59:12,111 - src.milp_general - INFO - Creating a model.
+2026-06-07 22:59:12,196 - src.milp_general - INFO - Start optimizing.
+2026-06-07 22:59:31,516 - src.milp_general - INFO - Finish optimizing.
+2026-06-07 22:59:31,516 - src.milp_general - INFO - Minimal density is 0.4039039039.
+2026-06-07 22:59:31,579 - __main__ - INFO - Finish optimizing general milp model for file `1_3_1.xlsx`.
+2026-06-07 22:59:31,609 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:31,609 - src.milp - INFO - Creating a model.
+2026-06-07 22:59:31,621 - src.milp - INFO - Start optimizing.
+2026-06-07 22:59:32,555 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:59:32,556 - src.milp - INFO - Minimal density is 0.3952380952.
+2026-06-07 22:59:32,583 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:32,583 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:32,591 - src.milp - INFO - Creating a model.
+2026-06-07 22:59:32,597 - src.milp - INFO - Start optimizing.
+2026-06-07 22:59:33,730 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:59:33,730 - src.milp - INFO - Minimal density is 0.3952380952.
+2026-06-07 22:59:33,777 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:33,778 - __main__ - INFO - Start optimizing general milp model for for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:33,779 - src.milp_general - INFO - Creating a model.
+2026-06-07 22:59:33,808 - src.milp_general - INFO - Start optimizing.
+2026-06-07 22:59:38,253 - src.milp_general - INFO - Finish optimizing.
+2026-06-07 22:59:38,253 - src.milp_general - INFO - Minimal density is 0.3952380952.
+2026-06-07 22:59:38,307 - __main__ - INFO - Finish optimizing general milp model for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:38,308 - __main__ - INFO - Start greedy algorithm for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:38,308 - __main__ - INFO - Minimal density is 0.39365079365079364.
+2026-06-07 22:59:38,342 - __main__ - INFO - Finish greedy algorithm for file `1_3_1_2.xlsx`.
+2026-06-07 22:59:38,359 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_3_2.xlsx`.
+2026-06-07 22:59:38,359 - src.milp - INFO - Creating a model.
+2026-06-07 22:59:38,379 - src.milp - INFO - Start optimizing.
+2026-06-07 22:59:53,841 - src.milp - INFO - Finish optimizing.
+2026-06-07 22:59:53,841 - src.milp - INFO - Minimal density is 0.4789473684.
+2026-06-07 22:59:53,900 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_3_2.xlsx`.
+2026-06-07 22:59:53,900 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_3_2.xlsx`.
+2026-06-07 22:59:53,900 - src.milp - INFO - Creating a model.
+2026-06-07 22:59:53,916 - src.milp - INFO - Start optimizing.
+2026-06-07 23:00:02,698 - src.milp - INFO - Finish optimizing.
+2026-06-07 23:00:02,698 - src.milp - INFO - Minimal density is 0.4789473684.
+2026-06-07 23:00:02,743 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_3_2.xlsx`.
+2026-06-07 23:00:02,743 - __main__ - INFO - Start optimizing general milp model for for file `1_3_2.xlsx`.
+2026-06-07 23:00:02,743 - src.milp_general - INFO - Creating a model.
+2026-06-07 23:00:02,835 - src.milp_general - INFO - Start optimizing.
+2026-06-08 00:00:02,011 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 00:00:02,011 - src.milp_general - INFO - Minimal density is 0.4789473684.
+2026-06-08 00:00:02,324 - __main__ - INFO - Finish optimizing general milp model for file `1_3_2.xlsx`.
+2026-06-08 00:00:02,344 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_4_1.xlsx`.
+2026-06-08 00:00:02,345 - src.milp - INFO - Creating a model.
+2026-06-08 00:00:02,362 - src.milp - INFO - Start optimizing.
+2026-06-08 00:00:02,958 - src.milp - INFO - Finish optimizing.
+2026-06-08 00:00:02,959 - src.milp - INFO - Minimal density is 0.1831932773.
+2026-06-08 00:00:03,000 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_4_1.xlsx`.
+2026-06-08 00:00:03,000 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_4_1.xlsx`.
+2026-06-08 00:00:03,000 - src.milp - INFO - Creating a model.
+2026-06-08 00:00:03,010 - src.milp - INFO - Start optimizing.
+2026-06-08 00:00:03,475 - src.milp - INFO - Finish optimizing.
+2026-06-08 00:00:03,476 - src.milp - INFO - Minimal density is 0.1831932773.
+2026-06-08 00:00:03,511 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_4_1.xlsx`.
+2026-06-08 00:00:03,512 - __main__ - INFO - Start optimizing general milp model for for file `1_4_1.xlsx`.
+2026-06-08 00:00:03,512 - src.milp_general - INFO - Creating a model.
+2026-06-08 00:00:03,539 - src.milp_general - INFO - Start optimizing.
+2026-06-08 00:00:12,001 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 00:00:12,001 - src.milp_general - INFO - Minimal density is 0.1831932773.
+2026-06-08 00:00:12,067 - __main__ - INFO - Finish optimizing general milp model for file `1_4_1.xlsx`.
+2026-06-08 00:00:12,080 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_4_2.xlsx`.
+2026-06-08 00:00:12,081 - src.milp - INFO - Creating a model.
+2026-06-08 00:00:12,101 - src.milp - INFO - Start optimizing.
+2026-06-08 00:00:16,068 - src.milp - INFO - Finish optimizing.
+2026-06-08 00:00:16,069 - src.milp - INFO - Minimal density is 0.2753623188.
+2026-06-08 00:00:16,130 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_4_2.xlsx`.
+2026-06-08 00:00:16,130 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_4_2.xlsx`.
+2026-06-08 00:00:16,130 - src.milp - INFO - Creating a model.
+2026-06-08 00:00:16,139 - src.milp - INFO - Start optimizing.
+2026-06-08 00:00:18,848 - src.milp - INFO - Finish optimizing.
+2026-06-08 00:00:18,849 - src.milp - INFO - Minimal density is 0.2753623188.
+2026-06-08 00:00:18,896 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_4_2.xlsx`.
+2026-06-08 00:00:18,896 - __main__ - INFO - Start optimizing general milp model for for file `1_4_2.xlsx`.
+2026-06-08 00:00:18,897 - src.milp_general - INFO - Creating a model.
+2026-06-08 00:00:18,926 - src.milp_general - INFO - Start optimizing.
+2026-06-08 00:01:41,811 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 00:01:41,811 - src.milp_general - INFO - Minimal density is 0.2753623188.
+2026-06-08 00:01:41,900 - __main__ - INFO - Finish optimizing general milp model for file `1_4_2.xlsx`.
+2026-06-08 00:01:41,924 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `1_5_1.xlsx`.
+2026-06-08 00:01:41,925 - src.milp - INFO - Creating a model.
+2026-06-08 00:01:41,948 - src.milp - INFO - Start optimizing.
+2026-06-08 00:01:43,888 - src.milp - INFO - Finish optimizing.
+2026-06-08 00:01:43,889 - src.milp - INFO - Minimal density is 0.1947368421.
+2026-06-08 00:01:43,929 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `1_5_1.xlsx`.
+2026-06-08 00:01:43,929 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `1_5_1.xlsx`.
+2026-06-08 00:01:43,929 - src.milp - INFO - Creating a model.
+2026-06-08 00:01:43,944 - src.milp - INFO - Start optimizing.
+2026-06-08 00:01:48,037 - src.milp - INFO - Finish optimizing.
+2026-06-08 00:01:48,038 - src.milp - INFO - Minimal density is 0.1947368421.
+2026-06-08 00:01:48,081 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `1_5_1.xlsx`.
+2026-06-08 00:01:48,082 - __main__ - INFO - Start optimizing general milp model for for file `1_5_1.xlsx`.
+2026-06-08 00:01:48,082 - src.milp_general - INFO - Creating a model.
+2026-06-08 00:01:48,088 - src.milp_general - INFO - Start optimizing.
+2026-06-08 00:01:49,399 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 00:01:49,399 - src.milp_general - INFO - Minimal density is 0.1947368421.
+2026-06-08 00:01:49,423 - __main__ - INFO - Finish optimizing general milp model for file `1_5_1.xlsx`.
+2026-06-08 00:01:49,448 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_1_1.xlsx`.
+2026-06-08 00:01:49,448 - src.milp - INFO - Creating a model.
+2026-06-08 00:01:49,533 - src.milp - INFO - Start optimizing.
+2026-06-08 01:01:49,001 - src.milp - INFO - Finish optimizing.
+2026-06-08 01:01:49,001 - src.milp - INFO - Minimal density is 0.4137931034.
+2026-06-08 01:01:59,266 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_1_1.xlsx`.
+2026-06-08 01:01:59,266 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_1_1.xlsx`.
+2026-06-08 01:01:59,266 - src.milp - INFO - Creating a model.
+2026-06-08 01:01:59,321 - src.milp - INFO - Start optimizing.
+2026-06-08 01:47:36,393 - src.milp - INFO - Finish optimizing.
+2026-06-08 01:47:36,395 - src.milp - INFO - Minimal density is 0.4137931034.
+2026-06-08 01:47:36,651 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_1_1.xlsx`.
+2026-06-08 01:47:36,651 - __main__ - INFO - Start optimizing general milp model for for file `2_1_1.xlsx`.
+2026-06-08 01:47:36,651 - src.milp_general - INFO - Creating a model.
+2026-06-08 01:47:37,069 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:47:37,027 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:47:37,029 - src.milp_general - INFO - Minimal density is 0.3439153439.
+2026-06-08 02:47:37,334 - __main__ - INFO - Finish optimizing general milp model for file `2_1_1.xlsx`.
+2026-06-08 02:47:37,367 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_1_1_2.xlsx`.
+2026-06-08 02:47:37,367 - src.milp - INFO - Creating a model.
+2026-06-08 02:47:37,397 - src.milp - INFO - Start optimizing.
+2026-06-08 02:47:39,966 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:47:39,967 - src.milp - INFO - Minimal density is 0.1680858941.
+2026-06-08 02:47:40,032 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_1_1_2.xlsx`.
+2026-06-08 02:47:40,033 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_1_1_2.xlsx`.
+2026-06-08 02:47:40,033 - src.milp - INFO - Creating a model.
+2026-06-08 02:47:40,041 - src.milp - INFO - Start optimizing.
+2026-06-08 02:47:43,210 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:47:43,211 - src.milp - INFO - Minimal density is 0.1680858941.
+2026-06-08 02:47:43,280 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_1_1_2.xlsx`.
+2026-06-08 02:47:43,280 - __main__ - INFO - Start optimizing general milp model for for file `2_1_1_2.xlsx`.
+2026-06-08 02:47:43,280 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:47:43,341 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:49:04,785 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:49:04,785 - src.milp_general - INFO - Minimal density is 0.1680858941.
+2026-06-08 02:49:04,872 - __main__ - INFO - Finish optimizing general milp model for file `2_1_1_2.xlsx`.
+2026-06-08 02:49:04,872 - __main__ - INFO - Start greedy algorithm for file `2_1_1_2.xlsx`.
+2026-06-08 02:49:04,873 - __main__ - INFO - Minimal density is 0.15808959644576082.
+2026-06-08 02:49:04,911 - __main__ - INFO - Finish greedy algorithm for file `2_1_1_2.xlsx`.
+2026-06-08 02:49:04,929 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_2_1.xlsx`.
+2026-06-08 02:49:04,929 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:04,949 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:07,510 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:07,511 - src.milp - INFO - Minimal density is 0.2336182336.
+2026-06-08 02:49:07,548 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_2_1.xlsx`.
+2026-06-08 02:49:07,554 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_2_1.xlsx`.
+2026-06-08 02:49:07,554 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:07,563 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:10,498 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:10,499 - src.milp - INFO - Minimal density is 0.2336182336.
+2026-06-08 02:49:10,543 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_2_1.xlsx`.
+2026-06-08 02:49:10,544 - __main__ - INFO - Start optimizing general milp model for for file `2_2_1.xlsx`.
+2026-06-08 02:49:10,544 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:49:10,575 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:49:14,657 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:49:14,657 - src.milp_general - INFO - Minimal density is 0.2336182336.
+2026-06-08 02:49:14,703 - __main__ - INFO - Finish optimizing general milp model for file `2_2_1.xlsx`.
+2026-06-08 02:49:14,715 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:14,716 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:14,723 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:14,885 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:14,885 - src.milp - INFO - Minimal density is 0.2307692308.
+2026-06-08 02:49:14,913 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:14,914 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:14,914 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:14,919 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:15,036 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:15,037 - src.milp - INFO - Minimal density is 0.2307692308.
+2026-06-08 02:49:15,068 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:15,068 - __main__ - INFO - Start optimizing general milp model for for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:15,069 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:49:15,075 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:49:15,303 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:49:15,303 - src.milp_general - INFO - Minimal density is 0.2307692308.
+2026-06-08 02:49:15,337 - __main__ - INFO - Finish optimizing general milp model for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:15,337 - __main__ - INFO - Start greedy algorithm for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:15,337 - __main__ - INFO - Minimal density is 0.1794871794871795.
+2026-06-08 02:49:15,375 - __main__ - INFO - Finish greedy algorithm for file `2_2_1_2.xlsx`.
+2026-06-08 02:49:15,394 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_3_1.xlsx`.
+2026-06-08 02:49:15,395 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:15,415 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:19,090 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:19,090 - src.milp - INFO - Minimal density is 0.1680911681.
+2026-06-08 02:49:19,144 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_3_1.xlsx`.
+2026-06-08 02:49:19,144 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_3_1.xlsx`.
+2026-06-08 02:49:19,145 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:19,152 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:21,932 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:21,933 - src.milp - INFO - Minimal density is 0.1680911681.
+2026-06-08 02:49:21,984 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_3_1.xlsx`.
+2026-06-08 02:49:21,984 - __main__ - INFO - Start optimizing general milp model for for file `2_3_1.xlsx`.
+2026-06-08 02:49:21,984 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:49:22,005 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:49:25,717 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:49:25,717 - src.milp_general - INFO - Minimal density is 0.1680911681.
+2026-06-08 02:49:25,765 - __main__ - INFO - Finish optimizing general milp model for file `2_3_1.xlsx`.
+2026-06-08 02:49:25,779 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:25,780 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:25,792 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:26,221 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:26,222 - src.milp - INFO - Minimal density is 0.2328042330.
+2026-06-08 02:49:26,247 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:26,253 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:26,253 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:26,258 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:26,440 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:26,440 - src.milp - INFO - Minimal density is 0.2328042328.
+2026-06-08 02:49:26,467 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:26,467 - __main__ - INFO - Start optimizing general milp model for for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:26,467 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:49:26,486 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:49:27,448 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:49:27,448 - src.milp_general - INFO - Minimal density is 0.2328042328.
+2026-06-08 02:49:27,479 - __main__ - INFO - Finish optimizing general milp model for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:27,479 - __main__ - INFO - Start greedy algorithm for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:27,479 - __main__ - INFO - Minimal density is 0.19047619047619047.
+2026-06-08 02:49:27,507 - __main__ - INFO - Finish greedy algorithm for file `2_3_1_2.xlsx`.
+2026-06-08 02:49:27,521 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_4_1.xlsx`.
+2026-06-08 02:49:27,521 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:27,534 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:28,054 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:28,054 - src.milp - INFO - Minimal density is 0.4736842105.
+2026-06-08 02:49:28,101 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_4_1.xlsx`.
+2026-06-08 02:49:28,101 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_4_1.xlsx`.
+2026-06-08 02:49:28,101 - src.milp - INFO - Creating a model.
+2026-06-08 02:49:28,114 - src.milp - INFO - Start optimizing.
+2026-06-08 02:49:28,313 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:49:28,314 - src.milp - INFO - Minimal density is 0.4736842105.
+2026-06-08 02:49:28,346 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_4_1.xlsx`.
+2026-06-08 02:49:28,346 - __main__ - INFO - Start optimizing general milp model for for file `2_4_1.xlsx`.
+2026-06-08 02:49:28,347 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:49:28,403 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:50:00,071 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:50:00,071 - src.milp_general - INFO - Minimal density is 0.4736842105.
+2026-06-08 02:50:00,229 - __main__ - INFO - Finish optimizing general milp model for file `2_4_1.xlsx`.
+2026-06-08 02:50:00,248 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:00,248 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:00,256 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:00,826 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:00,826 - src.milp - INFO - Minimal density is 0.1666666667.
+2026-06-08 02:50:00,863 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:00,863 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:00,863 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:00,868 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:01,292 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:01,293 - src.milp - INFO - Minimal density is 0.1666666667.
+2026-06-08 02:50:01,317 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:01,317 - __main__ - INFO - Start optimizing general milp model for for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:01,317 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:50:01,328 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:50:01,482 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:50:01,483 - src.milp_general - INFO - Minimal density is 0.1666666667.
+2026-06-08 02:50:01,517 - __main__ - INFO - Finish optimizing general milp model for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:01,518 - __main__ - INFO - Start greedy algorithm for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:01,518 - __main__ - INFO - Minimal density is 0.14102564102564102.
+2026-06-08 02:50:01,552 - __main__ - INFO - Finish greedy algorithm for file `2_4_1_2.xlsx`.
+2026-06-08 02:50:01,565 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:01,566 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:01,578 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:03,882 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:03,882 - src.milp - INFO - Minimal density is 0.3333333333.
+2026-06-08 02:50:03,917 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:03,918 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:03,918 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:03,921 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:05,186 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:05,187 - src.milp - INFO - Minimal density is 0.3333333333.
+2026-06-08 02:50:05,223 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:05,223 - __main__ - INFO - Start optimizing general milp model for for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:05,223 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:50:05,246 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:50:25,138 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:50:25,138 - src.milp_general - INFO - Minimal density is 0.3333333333.
+2026-06-08 02:50:25,192 - __main__ - INFO - Finish optimizing general milp model for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:25,192 - __main__ - INFO - Start greedy algorithm for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:25,193 - __main__ - INFO - Minimal density is 0.29333333333333333.
+2026-06-08 02:50:25,245 - __main__ - INFO - Finish greedy algorithm for file `2_5_1_2.xlsx`.
+2026-06-08 02:50:25,265 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `3_1_1.xlsx`.
+2026-06-08 02:50:25,266 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:25,295 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:30,001 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:30,002 - src.milp - INFO - Minimal density is 0.3040935673.
+2026-06-08 02:50:30,096 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `3_1_1.xlsx`.
+2026-06-08 02:50:30,096 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `3_1_1.xlsx`.
+2026-06-08 02:50:30,096 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:30,106 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:30,716 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:30,717 - src.milp - INFO - Minimal density is 0.3040935673.
+2026-06-08 02:50:30,754 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `3_1_1.xlsx`.
+2026-06-08 02:50:30,755 - __main__ - INFO - Start optimizing general milp model for for file `3_1_1.xlsx`.
+2026-06-08 02:50:30,755 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:50:30,782 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:50:55,606 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:50:55,622 - src.milp_general - INFO - Minimal density is 0.3040935673.
+2026-06-08 02:50:55,673 - __main__ - INFO - Finish optimizing general milp model for file `3_1_1.xlsx`.
+2026-06-08 02:50:55,687 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `3_1_2.xlsx`.
+2026-06-08 02:50:55,687 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:55,704 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:57,347 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:57,347 - src.milp - INFO - Minimal density is 0.2026515152.
+2026-06-08 02:50:57,404 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `3_1_2.xlsx`.
+2026-06-08 02:50:57,405 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `3_1_2.xlsx`.
+2026-06-08 02:50:57,405 - src.milp - INFO - Creating a model.
+2026-06-08 02:50:57,414 - src.milp - INFO - Start optimizing.
+2026-06-08 02:50:58,907 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:50:58,908 - src.milp - INFO - Minimal density is 0.2026515152.
+2026-06-08 02:50:58,935 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `3_1_2.xlsx`.
+2026-06-08 02:50:58,936 - __main__ - INFO - Start optimizing general milp model for for file `3_1_2.xlsx`.
+2026-06-08 02:50:58,936 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:50:58,969 - src.milp_general - INFO - Start optimizing.
+2026-06-08 02:51:09,593 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 02:51:09,593 - src.milp_general - INFO - Minimal density is 0.2026515152.
+2026-06-08 02:51:09,665 - __main__ - INFO - Finish optimizing general milp model for file `3_1_2.xlsx`.
+2026-06-08 02:51:09,684 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `3_2_1.xlsx`.
+2026-06-08 02:51:09,684 - src.milp - INFO - Creating a model.
+2026-06-08 02:51:09,741 - src.milp - INFO - Start optimizing.
+2026-06-08 02:55:35,939 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:55:35,939 - src.milp - INFO - Minimal density is 0.3783783784.
+2026-06-08 02:55:36,084 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `3_2_1.xlsx`.
+2026-06-08 02:55:36,100 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `3_2_1.xlsx`.
+2026-06-08 02:55:36,100 - src.milp - INFO - Creating a model.
+2026-06-08 02:55:36,137 - src.milp - INFO - Start optimizing.
+2026-06-08 02:56:37,111 - src.milp - INFO - Finish optimizing.
+2026-06-08 02:56:37,111 - src.milp - INFO - Minimal density is 0.3783783784.
+2026-06-08 02:56:37,248 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `3_2_1.xlsx`.
+2026-06-08 02:56:37,248 - __main__ - INFO - Start optimizing general milp model for for file `3_2_1.xlsx`.
+2026-06-08 02:56:37,248 - src.milp_general - INFO - Creating a model.
+2026-06-08 02:56:37,533 - src.milp_general - INFO - Start optimizing.
+2026-06-08 03:56:37,014 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 03:56:37,014 - src.milp_general - INFO - Minimal density is 0.3306451613.
+2026-06-08 03:56:37,266 - __main__ - INFO - Finish optimizing general milp model for file `3_2_1.xlsx`.
+2026-06-08 03:56:37,281 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `3_3_1.xlsx`.
+2026-06-08 03:56:37,296 - src.milp - INFO - Creating a model.
+2026-06-08 03:56:37,318 - src.milp - INFO - Start optimizing.
+2026-06-08 03:56:45,392 - src.milp - INFO - Finish optimizing.
+2026-06-08 03:56:45,403 - src.milp - INFO - Minimal density is 0.3105263158.
+2026-06-08 03:56:45,444 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `3_3_1.xlsx`.
+2026-06-08 03:56:45,445 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `3_3_1.xlsx`.
+2026-06-08 03:56:45,445 - src.milp - INFO - Creating a model.
+2026-06-08 03:56:45,450 - src.milp - INFO - Start optimizing.
+2026-06-08 03:56:48,533 - src.milp - INFO - Finish optimizing.
+2026-06-08 03:56:48,533 - src.milp - INFO - Minimal density is 0.3105263158.
+2026-06-08 03:56:48,599 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `3_3_1.xlsx`.
+2026-06-08 03:56:48,599 - __main__ - INFO - Start optimizing general milp model for for file `3_3_1.xlsx`.
+2026-06-08 03:56:48,600 - src.milp_general - INFO - Creating a model.
+2026-06-08 03:56:48,636 - src.milp_general - INFO - Start optimizing.
+2026-06-08 04:56:48,000 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 04:56:48,000 - src.milp_general - INFO - Minimal density is 0.3105263780.
+2026-06-08 04:56:48,298 - __main__ - INFO - Finish optimizing general milp model for file `3_3_1.xlsx`.
+2026-06-08 04:56:48,318 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `3_3_2.xlsx`.
+2026-06-08 04:56:48,318 - src.milp - INFO - Creating a model.
+2026-06-08 04:56:48,339 - src.milp - INFO - Start optimizing.
+2026-06-08 04:56:49,498 - src.milp - INFO - Finish optimizing.
+2026-06-08 04:56:49,498 - src.milp - INFO - Minimal density is 0.2369747899.
+2026-06-08 04:56:49,553 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `3_3_2.xlsx`.
+2026-06-08 04:56:49,553 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `3_3_2.xlsx`.
+2026-06-08 04:56:49,553 - src.milp - INFO - Creating a model.
+2026-06-08 04:56:49,562 - src.milp - INFO - Start optimizing.
+2026-06-08 04:56:49,765 - src.milp - INFO - Finish optimizing.
+2026-06-08 04:56:49,766 - src.milp - INFO - Minimal density is 0.2369747899.
+2026-06-08 04:56:49,791 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `3_3_2.xlsx`.
+2026-06-08 04:56:49,792 - __main__ - INFO - Start optimizing general milp model for for file `3_3_2.xlsx`.
+2026-06-08 04:56:49,793 - src.milp_general - INFO - Creating a model.
+2026-06-08 04:56:49,827 - src.milp_general - INFO - Start optimizing.
+2026-06-08 04:56:58,995 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 04:56:58,995 - src.milp_general - INFO - Minimal density is 0.2369747899.
+2026-06-08 04:56:59,045 - __main__ - INFO - Finish optimizing general milp model for file `3_3_2.xlsx`.
+2026-06-08 04:56:59,075 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_1_1.xlsx`.
+2026-06-08 04:56:59,075 - src.milp - INFO - Creating a model.
+2026-06-08 04:56:59,144 - src.milp - INFO - Start optimizing.
+2026-06-08 05:02:10,351 - src.milp - INFO - Finish optimizing.
+2026-06-08 05:02:10,352 - src.milp - INFO - Minimal density is 0.3569230769.
+2026-06-08 05:02:10,467 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_1_1.xlsx`.
+2026-06-08 05:02:10,467 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_1_1.xlsx`.
+2026-06-08 05:02:10,467 - src.milp - INFO - Creating a model.
+2026-06-08 05:02:10,492 - src.milp - INFO - Start optimizing.
+2026-06-08 05:03:33,567 - src.milp - INFO - Finish optimizing.
+2026-06-08 05:03:33,583 - src.milp - INFO - Minimal density is 0.3569230769.
+2026-06-08 05:03:33,670 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_1_1.xlsx`.
+2026-06-08 05:03:33,671 - __main__ - INFO - Start optimizing general milp model for for file `4_1_1.xlsx`.
+2026-06-08 05:03:33,671 - src.milp_general - INFO - Creating a model.
+2026-06-08 05:03:33,806 - src.milp_general - INFO - Start optimizing.
+2026-06-08 06:03:33,003 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 06:03:33,004 - src.milp_general - INFO - Minimal density is 0.3569230769.
+2026-06-08 06:03:33,366 - __main__ - INFO - Finish optimizing general milp model for file `4_1_1.xlsx`.
+2026-06-08 06:03:33,389 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:33,389 - src.milp - INFO - Creating a model.
+2026-06-08 06:03:33,404 - src.milp - INFO - Start optimizing.
+2026-06-08 06:03:33,708 - src.milp - INFO - Finish optimizing.
+2026-06-08 06:03:33,708 - src.milp - INFO - Minimal density is 0.1925925926.
+2026-06-08 06:03:33,745 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:33,745 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:33,746 - src.milp - INFO - Creating a model.
+2026-06-08 06:03:33,749 - src.milp - INFO - Start optimizing.
+2026-06-08 06:03:33,959 - src.milp - INFO - Finish optimizing.
+2026-06-08 06:03:33,960 - src.milp - INFO - Minimal density is 0.1925925926.
+2026-06-08 06:03:33,995 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:33,996 - __main__ - INFO - Start optimizing general milp model for for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:33,997 - src.milp_general - INFO - Creating a model.
+2026-06-08 06:03:34,031 - src.milp_general - INFO - Start optimizing.
+2026-06-08 06:03:41,905 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 06:03:41,905 - src.milp_general - INFO - Minimal density is 0.1925925926.
+2026-06-08 06:03:41,957 - __main__ - INFO - Finish optimizing general milp model for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:41,958 - __main__ - INFO - Start greedy algorithm for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:41,958 - __main__ - INFO - Minimal density is 0.16565656565656567.
+2026-06-08 06:03:42,000 - __main__ - INFO - Finish greedy algorithm for file `4_1_1_2.xlsx`.
+2026-06-08 06:03:42,020 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_1_2.xlsx`.
+2026-06-08 06:03:42,020 - src.milp - INFO - Creating a model.
+2026-06-08 06:03:42,075 - src.milp - INFO - Start optimizing.
+2026-06-08 06:32:29,090 - src.milp - INFO - Finish optimizing.
+2026-06-08 06:32:29,106 - src.milp - INFO - Minimal density is 0.4466407592.
+2026-06-08 06:32:29,288 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_1_2.xlsx`.
+2026-06-08 06:32:29,288 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_1_2.xlsx`.
+2026-06-08 06:32:29,288 - src.milp - INFO - Creating a model.
+2026-06-08 06:32:29,336 - src.milp - INFO - Start optimizing.
+2026-06-08 06:35:09,548 - src.milp - INFO - Finish optimizing.
+2026-06-08 06:35:09,548 - src.milp - INFO - Minimal density is 0.4466403162.
+2026-06-08 06:35:09,664 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_1_2.xlsx`.
+2026-06-08 06:35:09,664 - __main__ - INFO - Start optimizing general milp model for for file `4_1_2.xlsx`.
+2026-06-08 06:35:09,664 - src.milp_general - INFO - Creating a model.
+2026-06-08 06:35:09,838 - src.milp_general - INFO - Start optimizing.
+2026-06-08 07:35:09,011 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 07:35:09,011 - src.milp_general - INFO - Minimal density is 0.3593073593.
+2026-06-08 07:35:09,358 - __main__ - INFO - Finish optimizing general milp model for file `4_1_2.xlsx`.
+2026-06-08 07:35:09,374 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_2_1.xlsx`.
+2026-06-08 07:35:09,374 - src.milp - INFO - Creating a model.
+2026-06-08 07:35:09,417 - src.milp - INFO - Start optimizing.
+2026-06-08 07:38:36,834 - src.milp - INFO - Finish optimizing.
+2026-06-08 07:38:36,835 - src.milp - INFO - Minimal density is 0.3675213675.
+2026-06-08 07:38:36,941 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_2_1.xlsx`.
+2026-06-08 07:38:36,941 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_2_1.xlsx`.
+2026-06-08 07:38:36,941 - src.milp - INFO - Creating a model.
+2026-06-08 07:38:36,982 - src.milp - INFO - Start optimizing.
+2026-06-08 07:39:20,153 - src.milp - INFO - Finish optimizing.
+2026-06-08 07:39:20,153 - src.milp - INFO - Minimal density is 0.3675213675.
+2026-06-08 07:39:20,201 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_2_1.xlsx`.
+2026-06-08 07:39:20,202 - __main__ - INFO - Start optimizing general milp model for for file `4_2_1.xlsx`.
+2026-06-08 07:39:20,202 - src.milp_general - INFO - Creating a model.
+2026-06-08 07:39:20,330 - src.milp_general - INFO - Start optimizing.
+2026-06-08 08:39:20,006 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 08:39:20,006 - src.milp_general - INFO - Minimal density is 0.3624338624.
+2026-06-08 08:39:20,272 - __main__ - INFO - Finish optimizing general milp model for file `4_2_1.xlsx`.
+2026-06-08 08:39:20,294 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:20,295 - src.milp - INFO - Creating a model.
+2026-06-08 08:39:20,316 - src.milp - INFO - Start optimizing.
+2026-06-08 08:39:20,628 - src.milp - INFO - Finish optimizing.
+2026-06-08 08:39:20,629 - src.milp - INFO - Minimal density is 0.1858839972.
+2026-06-08 08:39:20,664 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:20,664 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:20,664 - src.milp - INFO - Creating a model.
+2026-06-08 08:39:20,676 - src.milp - INFO - Start optimizing.
+2026-06-08 08:39:21,506 - src.milp - INFO - Finish optimizing.
+2026-06-08 08:39:21,507 - src.milp - INFO - Minimal density is 0.1858839972.
+2026-06-08 08:39:21,552 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:21,552 - __main__ - INFO - Start optimizing general milp model for for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:21,553 - src.milp_general - INFO - Creating a model.
+2026-06-08 08:39:21,586 - src.milp_general - INFO - Start optimizing.
+2026-06-08 08:39:37,017 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 08:39:37,017 - src.milp_general - INFO - Minimal density is 0.1858839972.
+2026-06-08 08:39:37,069 - __main__ - INFO - Finish optimizing general milp model for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:37,069 - __main__ - INFO - Start greedy algorithm for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:37,070 - __main__ - INFO - Minimal density is 0.16701607267645002.
+2026-06-08 08:39:37,105 - __main__ - INFO - Finish greedy algorithm for file `4_2_1_2.xlsx`.
+2026-06-08 08:39:37,120 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_2_2.xlsx`.
+2026-06-08 08:39:37,120 - src.milp - INFO - Creating a model.
+2026-06-08 08:39:37,174 - src.milp - INFO - Start optimizing.
+2026-06-08 08:46:42,588 - src.milp - INFO - Finish optimizing.
+2026-06-08 08:46:42,588 - src.milp - INFO - Minimal density is 0.4664031621.
+2026-06-08 08:46:42,702 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_2_2.xlsx`.
+2026-06-08 08:46:42,702 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_2_2.xlsx`.
+2026-06-08 08:46:42,702 - src.milp - INFO - Creating a model.
+2026-06-08 08:46:42,735 - src.milp - INFO - Start optimizing.
+2026-06-08 08:47:36,781 - src.milp - INFO - Finish optimizing.
+2026-06-08 08:47:36,781 - src.milp - INFO - Minimal density is 0.4664031621.
+2026-06-08 08:47:36,882 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_2_2.xlsx`.
+2026-06-08 08:47:36,882 - __main__ - INFO - Start optimizing general milp model for for file `4_2_2.xlsx`.
+2026-06-08 08:47:36,882 - src.milp_general - INFO - Creating a model.
+2026-06-08 08:47:37,016 - src.milp_general - INFO - Start optimizing.
+2026-06-08 09:47:37,004 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 09:47:37,004 - src.milp_general - INFO - Minimal density is 0.4601449275.
+2026-06-08 09:47:37,260 - __main__ - INFO - Finish optimizing general milp model for file `4_2_2.xlsx`.
+2026-06-08 09:47:37,276 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_3_1.xlsx`.
+2026-06-08 09:47:37,285 - src.milp - INFO - Creating a model.
+2026-06-08 09:47:37,292 - src.milp - INFO - Start optimizing.
+2026-06-08 09:47:37,705 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:47:37,706 - src.milp - INFO - Minimal density is 0.2745098039.
+2026-06-08 09:47:37,747 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_3_1.xlsx`.
+2026-06-08 09:47:37,747 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_3_1.xlsx`.
+2026-06-08 09:47:37,748 - src.milp - INFO - Creating a model.
+2026-06-08 09:47:37,755 - src.milp - INFO - Start optimizing.
+2026-06-08 09:47:38,079 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:47:38,079 - src.milp - INFO - Minimal density is 0.2745098039.
+2026-06-08 09:47:38,114 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_3_1.xlsx`.
+2026-06-08 09:47:38,114 - __main__ - INFO - Start optimizing general milp model for for file `4_3_1.xlsx`.
+2026-06-08 09:47:38,114 - src.milp_general - INFO - Creating a model.
+2026-06-08 09:47:38,129 - src.milp_general - INFO - Start optimizing.
+2026-06-08 09:47:39,187 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 09:47:39,187 - src.milp_general - INFO - Minimal density is 0.2745098039.
+2026-06-08 09:47:39,223 - __main__ - INFO - Finish optimizing general milp model for file `4_3_1.xlsx`.
+2026-06-08 09:47:39,238 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_4_1.xlsx`.
+2026-06-08 09:47:39,238 - src.milp - INFO - Creating a model.
+2026-06-08 09:47:39,252 - src.milp - INFO - Start optimizing.
+2026-06-08 09:47:39,536 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:47:39,537 - src.milp - INFO - Minimal density is 0.2307692308.
+2026-06-08 09:47:39,619 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_4_1.xlsx`.
+2026-06-08 09:47:39,620 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_4_1.xlsx`.
+2026-06-08 09:47:39,620 - src.milp - INFO - Creating a model.
+2026-06-08 09:47:39,627 - src.milp - INFO - Start optimizing.
+2026-06-08 09:47:42,956 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:47:42,957 - src.milp - INFO - Minimal density is 0.2307692308.
+2026-06-08 09:47:43,013 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_4_1.xlsx`.
+2026-06-08 09:47:43,013 - __main__ - INFO - Start optimizing general milp model for for file `4_4_1.xlsx`.
+2026-06-08 09:47:43,013 - src.milp_general - INFO - Creating a model.
+2026-06-08 09:47:43,028 - src.milp_general - INFO - Start optimizing.
+2026-06-08 09:47:48,548 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 09:47:48,548 - src.milp_general - INFO - Minimal density is 0.2307692308.
+2026-06-08 09:47:48,593 - __main__ - INFO - Finish optimizing general milp model for file `4_4_1.xlsx`.
+2026-06-08 09:47:48,606 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `4_4_2.xlsx`.
+2026-06-08 09:47:48,606 - src.milp - INFO - Creating a model.
+2026-06-08 09:47:48,626 - src.milp - INFO - Start optimizing.
+2026-06-08 09:47:50,887 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:47:50,887 - src.milp - INFO - Minimal density is 0.3508771930.
+2026-06-08 09:47:50,921 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `4_4_2.xlsx`.
+2026-06-08 09:47:50,921 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `4_4_2.xlsx`.
+2026-06-08 09:47:50,921 - src.milp - INFO - Creating a model.
+2026-06-08 09:47:50,945 - src.milp - INFO - Start optimizing.
+2026-06-08 09:47:53,896 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:47:53,897 - src.milp - INFO - Minimal density is 0.3508771930.
+2026-06-08 09:47:53,928 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `4_4_2.xlsx`.
+2026-06-08 09:47:53,928 - __main__ - INFO - Start optimizing general milp model for for file `4_4_2.xlsx`.
+2026-06-08 09:47:53,929 - src.milp_general - INFO - Creating a model.
+2026-06-08 09:47:53,954 - src.milp_general - INFO - Start optimizing.
+2026-06-08 09:48:15,082 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 09:48:15,097 - src.milp_general - INFO - Minimal density is 0.3508771930.
+2026-06-08 09:48:15,175 - __main__ - INFO - Finish optimizing general milp model for file `4_4_2.xlsx`.
+2026-06-08 09:48:15,201 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `5_1_1.xlsx`.
+2026-06-08 09:48:15,202 - src.milp - INFO - Creating a model.
+2026-06-08 09:48:15,224 - src.milp - INFO - Start optimizing.
+2026-06-08 09:48:16,181 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:48:16,181 - src.milp - INFO - Minimal density is 0.4884615385.
+2026-06-08 09:48:16,225 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `5_1_1.xlsx`.
+2026-06-08 09:48:16,226 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `5_1_1.xlsx`.
+2026-06-08 09:48:16,226 - src.milp - INFO - Creating a model.
+2026-06-08 09:48:16,233 - src.milp - INFO - Start optimizing.
+2026-06-08 09:48:16,915 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:48:16,915 - src.milp - INFO - Minimal density is 0.4884615385.
+2026-06-08 09:48:16,954 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `5_1_1.xlsx`.
+2026-06-08 09:48:16,955 - __main__ - INFO - Start optimizing general milp model for for file `5_1_1.xlsx`.
+2026-06-08 09:48:16,955 - src.milp_general - INFO - Creating a model.
+2026-06-08 09:48:17,051 - src.milp_general - INFO - Start optimizing.
+2026-06-08 09:48:38,317 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 09:48:38,317 - src.milp_general - INFO - Minimal density is 0.4884615385.
+2026-06-08 09:48:38,394 - __main__ - INFO - Finish optimizing general milp model for file `5_1_1.xlsx`.
+2026-06-08 09:48:38,416 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `5_1_2.xlsx`.
+2026-06-08 09:48:38,416 - src.milp - INFO - Creating a model.
+2026-06-08 09:48:38,451 - src.milp - INFO - Start optimizing.
+2026-06-08 09:48:39,649 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:48:39,649 - src.milp - INFO - Minimal density is 0.6200000000.
+2026-06-08 09:48:39,723 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `5_1_2.xlsx`.
+2026-06-08 09:48:39,724 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `5_1_2.xlsx`.
+2026-06-08 09:48:39,724 - src.milp - INFO - Creating a model.
+2026-06-08 09:48:39,738 - src.milp - INFO - Start optimizing.
+2026-06-08 09:48:42,405 - src.milp - INFO - Finish optimizing.
+2026-06-08 09:48:42,405 - src.milp - INFO - Minimal density is 0.6200000000.
+2026-06-08 09:48:42,467 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `5_1_2.xlsx`.
+2026-06-08 09:48:42,468 - __main__ - INFO - Start optimizing general milp model for for file `5_1_2.xlsx`.
+2026-06-08 09:48:42,469 - src.milp_general - INFO - Creating a model.
+2026-06-08 09:48:42,585 - src.milp_general - INFO - Start optimizing.
+2026-06-08 10:48:42,009 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 10:48:42,009 - src.milp_general - INFO - Minimal density is 0.6200000000.
+2026-06-08 10:48:42,335 - __main__ - INFO - Finish optimizing general milp model for file `5_1_2.xlsx`.
+2026-06-08 10:48:42,384 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `5_2_1.xlsx`.
+2026-06-08 10:48:42,384 - src.milp - INFO - Creating a model.
+2026-06-08 10:48:42,406 - src.milp - INFO - Start optimizing.
+2026-06-08 10:48:42,721 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:48:42,723 - src.milp - INFO - Minimal density is 0.4800000000.
+2026-06-08 10:48:42,770 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `5_2_1.xlsx`.
+2026-06-08 10:48:42,771 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `5_2_1.xlsx`.
+2026-06-08 10:48:42,771 - src.milp - INFO - Creating a model.
+2026-06-08 10:48:42,786 - src.milp - INFO - Start optimizing.
+2026-06-08 10:48:42,935 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:48:42,936 - src.milp - INFO - Minimal density is 0.4800000000.
+2026-06-08 10:48:42,962 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `5_2_1.xlsx`.
+2026-06-08 10:48:42,962 - __main__ - INFO - Start optimizing general milp model for for file `5_2_1.xlsx`.
+2026-06-08 10:48:42,962 - src.milp_general - INFO - Creating a model.
+2026-06-08 10:48:43,008 - src.milp_general - INFO - Start optimizing.
+2026-06-08 10:48:48,146 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 10:48:48,146 - src.milp_general - INFO - Minimal density is 0.4800000000.
+2026-06-08 10:48:48,185 - __main__ - INFO - Finish optimizing general milp model for file `5_2_1.xlsx`.
+2026-06-08 10:48:48,234 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `6_1_1.xlsx`.
+2026-06-08 10:48:48,235 - src.milp - INFO - Creating a model.
+2026-06-08 10:48:48,244 - src.milp - INFO - Start optimizing.
+2026-06-08 10:48:49,299 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:48:49,299 - src.milp - INFO - Minimal density is 0.4866310160.
+2026-06-08 10:48:49,348 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `6_1_1.xlsx`.
+2026-06-08 10:48:49,348 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `6_1_1.xlsx`.
+2026-06-08 10:48:49,349 - src.milp - INFO - Creating a model.
+2026-06-08 10:48:49,355 - src.milp - INFO - Start optimizing.
+2026-06-08 10:48:50,600 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:48:50,600 - src.milp - INFO - Minimal density is 0.4866310160.
+2026-06-08 10:48:50,642 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `6_1_1.xlsx`.
+2026-06-08 10:48:50,643 - __main__ - INFO - Start optimizing general milp model for for file `6_1_1.xlsx`.
+2026-06-08 10:48:50,643 - src.milp_general - INFO - Creating a model.
+2026-06-08 10:48:50,706 - src.milp_general - INFO - Start optimizing.
+2026-06-08 10:49:01,578 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 10:49:01,578 - src.milp_general - INFO - Minimal density is 0.4866310160.
+2026-06-08 10:49:01,636 - __main__ - INFO - Finish optimizing general milp model for file `6_1_1.xlsx`.
+2026-06-08 10:49:01,686 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:01,686 - src.milp - INFO - Creating a model.
+2026-06-08 10:49:01,696 - src.milp - INFO - Start optimizing.
+2026-06-08 10:49:02,023 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:49:02,023 - src.milp - INFO - Minimal density is 0.4470899471.
+2026-06-08 10:49:02,063 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:02,063 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:02,064 - src.milp - INFO - Creating a model.
+2026-06-08 10:49:02,070 - src.milp - INFO - Start optimizing.
+2026-06-08 10:49:03,263 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:49:03,264 - src.milp - INFO - Minimal density is 0.4470899471.
+2026-06-08 10:49:03,283 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:03,283 - __main__ - INFO - Start optimizing general milp model for for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:03,283 - src.milp_general - INFO - Creating a model.
+2026-06-08 10:49:03,310 - src.milp_general - INFO - Start optimizing.
+2026-06-08 10:49:06,436 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 10:49:06,436 - src.milp_general - INFO - Minimal density is 0.4470899471.
+2026-06-08 10:49:06,488 - __main__ - INFO - Finish optimizing general milp model for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:06,489 - __main__ - INFO - Start greedy algorithm for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:06,489 - __main__ - INFO - Minimal density is 0.41798941798941797.
+2026-06-08 10:49:06,514 - __main__ - INFO - Finish greedy algorithm for file `6_1_1_2.xlsx`.
+2026-06-08 10:49:06,540 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `6_1_2.xlsx`.
+2026-06-08 10:49:06,541 - src.milp - INFO - Creating a model.
+2026-06-08 10:49:06,555 - src.milp - INFO - Start optimizing.
+2026-06-08 10:49:06,828 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:49:06,829 - src.milp - INFO - Minimal density is 0.4470899471.
+2026-06-08 10:49:06,846 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `6_1_2.xlsx`.
+2026-06-08 10:49:06,846 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `6_1_2.xlsx`.
+2026-06-08 10:49:06,846 - src.milp - INFO - Creating a model.
+2026-06-08 10:49:06,851 - src.milp - INFO - Start optimizing.
+2026-06-08 10:49:08,042 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:49:08,042 - src.milp - INFO - Minimal density is 0.4470899471.
+2026-06-08 10:49:08,061 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `6_1_2.xlsx`.
+2026-06-08 10:49:08,061 - __main__ - INFO - Start optimizing general milp model for for file `6_1_2.xlsx`.
+2026-06-08 10:49:08,061 - src.milp_general - INFO - Creating a model.
+2026-06-08 10:49:08,084 - src.milp_general - INFO - Start optimizing.
+2026-06-08 10:49:11,128 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 10:49:11,128 - src.milp_general - INFO - Minimal density is 0.4470899471.
+2026-06-08 10:49:11,151 - __main__ - INFO - Finish optimizing general milp model for file `6_1_2.xlsx`.
+2026-06-08 10:49:11,187 - __main__ - INFO - Start optimizing milp model with symmetries breaking constraints for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:11,187 - src.milp - INFO - Creating a model.
+2026-06-08 10:49:11,189 - src.milp - INFO - Start optimizing.
+2026-06-08 10:49:11,367 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:49:11,367 - src.milp - INFO - Minimal density is 0.5909090909.
+2026-06-08 10:49:11,398 - __main__ - INFO - Finish optimizing milp model with symmetries breaking constraints for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:11,398 - __main__ - INFO - Start optimizing milp model without symmetries breaking constraints for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:11,398 - src.milp - INFO - Creating a model.
+2026-06-08 10:49:11,406 - src.milp - INFO - Start optimizing.
+2026-06-08 10:49:11,591 - src.milp - INFO - Finish optimizing.
+2026-06-08 10:49:11,591 - src.milp - INFO - Minimal density is 0.5909090909.
+2026-06-08 10:49:11,608 - __main__ - INFO - Finish optimizing milp model without symmetries breaking constraints for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:11,608 - __main__ - INFO - Start optimizing general milp model for for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:11,609 - src.milp_general - INFO - Creating a model.
+2026-06-08 10:49:11,619 - src.milp_general - INFO - Start optimizing.
+2026-06-08 10:49:12,710 - src.milp_general - INFO - Finish optimizing.
+2026-06-08 10:49:12,710 - src.milp_general - INFO - Minimal density is 0.5909090909.
+2026-06-08 10:49:12,750 - __main__ - INFO - Finish optimizing general milp model for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:12,750 - __main__ - INFO - Start greedy algorithm for file `7_1_1_2.xlsx`.
+2026-06-08 10:49:12,750 - __main__ - INFO - Minimal density is 0.5909090909090909.
+2026-06-08 10:49:12,776 - __main__ - INFO - Finish greedy algorithm for file `7_1_1_2.xlsx`.
